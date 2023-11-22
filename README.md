@@ -1,8 +1,8 @@
 # SRNet
-institution：JMAI
-created by：fuchenli
-date：2023.11.22
-E-mail：lfchen@yeah.net
+- institution：JMAI
+- created by：fuchenli
+- date：2023.11.22
+- E-mail：lfchen@yeah.net
 
 This work creates a deep learning framework for low-level vision, using super-resolution networks as an example.
 
