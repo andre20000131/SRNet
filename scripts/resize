@@ -1,0 +1,6 @@
+import cv2
+
+
+a = cv2.imread('/data/test/20231121-141150.jpg')
+a = cv2.resize(a,(512,512))
+cv2.imwrite('./000012.png',a)
